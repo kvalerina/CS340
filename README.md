@@ -1,1 +1,9 @@
 # CS340
+# Karina Aronov
+# October 27, 2024
+
+To write code that’s easy to work with, I focus on making it clear and functional. To do this, the code must be divided into smaller components that each perform a single task properly. I separated the database functions (such as create, read, update, and delete) in the CRUD Python module to make them simple to understand and change as necessary. This method kept everything neat and orderly by making it easy to connect the module to the dashboard without having to repeat code. This also allowed me to reuse the CRUD module for other projects that need database actions without having to rewrite it from scratch.
+
+When I face a problem, I try to break it down into steps and plan each one before diving in. For this project, I started by understanding the database requirements and the types of filters needed for the dashboard. Compared to past projects, this one required more integration between tools (like MongoDB and Dash), so I had to be organized. I found that sketching out each piece of the project and tackling it step-by-step worked well. Going forward, I’d keep using this approach of planning ahead and might also try visual tools, like flowcharts, to better map out the connections when working on complex projects.
+
+Computer scientists build systems and tools that make life easier by managing data, solving problems, and helping organizations work better. In this project, I built a dashboard for Grazioso Salvare that lets them quickly find animals that meet specific rescue needs. This kind of tool helps them focus on their mission by giving them fast access to useful information. For a company like Grazioso Salvare, having a user-friendly, data-focused dashboard means they can spend less time digging through data and more time actually helping in rescue situations. 
